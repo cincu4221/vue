@@ -3,7 +3,7 @@
     <div class="skeletons">
       <div class="skeleton poster"></div>
       <div class="specs">
-        <div class="skeleton title"></div>
+        <div class="skeleton title"></div> 
         <div class="skeleton spec"></div>
         <div class="skeleton plot"></div>
         <div class="skeleton etc"></div>
